@@ -1,5 +1,2 @@
 # wullie111.github.io
-website for wulliebotCore
-
-says in the title 
-will be updated along side wulliebotCore
+webstie for sharing and updating people on my current projects
