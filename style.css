@@ -2,18 +2,22 @@ body{
 	background-color:#36393e;
 	font-family: 'inconsolata';
 	color: white;
-	
-	
 }
 
 h1{
 	font-family: 'inconsolata';
 	text-align: center;
 }
+p{
+  font-family: 'inconsolata';
+
+}
 
 p1{
-	font-family: 'inconsolata':
-	text-align: center;
+  text-align: center;
+	font-family: 'inconsolata';
+	font-size: 10px;
+	
 }
 
 ul {
